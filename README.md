@@ -8,11 +8,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" />
 
 ### 🧠 Currently Learning:
-- Java | Python | Kotlin
-- Full-Stack Development (MERN & LAMP)
-- Clean Code | Design Patterns | REST APIs
+- Programming Languages: Java | Python | Kotlin | JavaScript | TypeScript
+- Frameworks & Libraries: Spring Boot | React.js | Express.js | Node.js | Next.js
+- Full-Stack Development: MERN Stack (MongoDB, Express, React, Node) | RESTful APIs | Authentication (JWT, OAuth)
+- Backend Development: API Design | MVC Architecture | Error Handling | Middleware | Database Integration
+- Frontend Development: Responsive Web Design | State Management | UI/UX Optimization
+- Other Concepts: Object-Oriented Programming (OOP) | Agile Methodologies | API Security | Version Control | Debugging Best Practices
 
-### 🧰 Tech Stack:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
