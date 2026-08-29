@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevindi Maleesha Jayathilake</h1>
 
 <h3 align="center">
-Software Engineering Undergraduate | Full-Stack Developer | Cloud & AI Enthusiast
+Software Engineer | Undergraduate | Full-Stack Developer | Cloud & AI Enthusiast
 </h3>
 
 <p align="center">
