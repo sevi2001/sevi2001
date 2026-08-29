@@ -260,7 +260,7 @@ A full-stack fleet and logistics management platform for managing vehicles, driv
 <p align="center">
   <img
     src="./assets/DgfrJNR8oUyv.gif"
-    width="110"
+    width="150"
     alt="Portfolio Assistant"
   />
 </p>
