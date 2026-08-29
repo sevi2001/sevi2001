@@ -259,7 +259,7 @@ A full-stack fleet and logistics management platform for managing vehicles, driv
 
 <p align="center">
   <img
-    src="./assetsDgfrJNR8oUyv.gif"
+    src="./assets/DgfrJNR8oUyv.gif"
     width="110"
     alt="Portfolio Assistant"
   />
@@ -274,7 +274,7 @@ A full-stack fleet and logistics management platform for managing vehicles, driv
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sevindi-portfolio.vercel.app/">
     <img
       src="https://img.shields.io/badge/Try%20SeviBot-Open%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Open Portfolio"
@@ -288,7 +288,7 @@ A full-stack fleet and logistics management platform for managing vehicles, driv
 
 <p align="center">
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sevindi-portfolio.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"
     />
