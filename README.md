@@ -1,195 +1,193 @@
 <div align="center">
 
-# Hi, I'm Sevindi! 👋💜
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10132e,35:543b89,70:b968ae,100:ffb6d9&text=SEVI'S%20DIGITAL%20UNIVERSE&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=where%20curiosity%20becomes%20code%20%E2%9C%A8&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Sevi's Digital Universe banner" />
 
-### Software Engineering Graduate · Full-Stack & Mobile Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=E9A8E8&center=true&vCenter=true&width=750&lines=Hello%2C+world!+I'm+Sevindi+%F0%9F%91%8B;Software+Developer+%7C+SLIIT+Graduate+2026;I+build+web+apps%2C+mobile+apps+%26+little+worlds;Learning+new+things%2C+one+commit+at+a+time+%E2%9C%A8" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=C4A7FF&center=true&vCenter=true&width=760&lines=Turning+ideas+into+beautiful+digital+experiences+%E2%9C%A8;React+%E2%80%A2+Next.js+%E2%80%A2+Angular+%E2%80%A2+Flutter;Building%2C+learning%2C+and+growing+every+day+%F0%9F%8C%B7" alt="Animated introduction" />
+<br/>
 
-<a href="https://sevindi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329" /></a>
-<a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=161329" /></a>
-<a href="mailto:sevindijayathilake2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-F6B7D2?style=for-the-badge&logo=gmail&logoColor=161329" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=sevi2001&label=Profile%20Views&color=ba9af7&style=flat" alt="Profile views" />
+<a href="https://sevindi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%A8_Portfolio-Visit_My_World-BF8DF2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Let's_Connect-82C9F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sevindijayathilake2001@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Email-Say_Hello-F4A6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 🌷 A Little About Me
+## 🪐 Chapter 01 · The human behind the code
 
-I'm **Sevindi Maleesha Jayathilake**, a **2026 BSc (Hons) Information Technology graduate from SLIIT**, passionate about creating thoughtful, responsive web and mobile experiences.
+```yaml
+name: Sevindi Maleesha Jayathilake
+home: Sri Lanka 🇱🇰
+education: BSc (Hons) in Information Technology — SLIIT, 2026
+experience: Trainee Software Engineer — Hayleys Fentons (2024–2025)
+currently: Building projects and exploring new technologies
+looking_for: Software Engineer / Associate Software Engineer
+favorite_things: [creative interfaces, useful apps, learning by building]
+mission: "Turn ideas into experiences people enjoy using."
+```
 
-I worked as a **Trainee Software Engineer at Hayleys Fentons (Jan 2024 – Jan 2025)**, contributing to websites and internal management systems. I continue to grow through hands-on projects, experimenting with new frameworks, APIs, animations, and deployment workflows.
+I'm a **2026 SLIIT graduate** with a year of trainee software engineering experience at **Hayleys Fentons**. I enjoy transforming ideas into responsive websites, interactive applications, and mobile experiences. My favorite way to learn a new technology? **Build something real with it.**
 
-- 🎯 **Open to:** Software Engineer, Associate Software Engineer & Junior Developer opportunities
-- 💻 **Currently building with:** React, Next.js, Angular, TypeScript & Flutter
-- 📱 **I enjoy:** Mobile apps, interactive UIs, full-stack projects & creative design
-- 🌱 **Exploring:** Cloud platforms, AI integrations & software architecture
-- ✨ **My approach:** Learn by building, test ideas, and keep improving
-- 📍 **Based in:** Sri Lanka
+> 🌷 *I don't just collect technologies — I explore what I can create with them.*
 
----
-
-## 🧰 My Tech Toolbox
+## 🌌 Chapter 02 · My technology constellation
 
 <div align="center">
 
-**Languages**
+**✨ Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,kotlin,dart,php&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,kotlin,dart&perline=7" alt="JavaScript, TypeScript, Java, Python, PHP, Kotlin, Dart" />
 
-**Frontend & UI**
+**🎨 Frontend & experiences**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,sass&perline=8" alt="React, Angular, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass" />
 
-**Backend & APIs**
+**⚙️ Backend & data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,mongodb,mysql,postgres,firebase,supabase&perline=9" alt="Node.js, Express, FastAPI, Spring Boot, MongoDB, MySQL, PostgreSQL, Firebase, Supabase" />
 
-**Databases & Services**
+**📱 Mobile, tools & deployment**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,sqlite&theme=dark" alt="Databases and services" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,postman,vercel,figma&perline=8" alt="Flutter, Android Studio, Git, GitHub, VS Code, Postman, Vercel, Figma" />
 
-**Mobile, Cloud & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,aws,azure,docker,git,github,vercel,vscode,postman,figma,linux&theme=dark" alt="Mobile, cloud, and developer tools" />
+<sub>Some technologies are from coursework and exploration; others are used in deployed projects.</sub>
 
 </div>
 
-> 💡 These are technologies I've worked with or explored at different levels. I'm always learning and improving.
+## 🚀 Chapter 03 · Worlds I've built
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ✨ Featured Projects
+### 🚕 TripLanka
+**Flutter · Dart · Maps**
 
-### 🚕 TripLanka — Travel Booking Application
+A travel booking experience with ride requests, scheduled trips, multiple stops, airport transfers, route previews, driver tools and cost splitting.
 
-**Flutter · Dart · Firebase · Maps & Routing**
+[🌐 Live demo](https://triplanka.vercel.app/) · [💻 Source code](https://github.com/sevi2001/triplanka)
 
-A travel booking experience with instant ride requests, scheduled trips, multiple stops, airport transfers, full-day bookings, route previews, driver workflows, ratings, and a cost-splitting calculator.
+</td>
+<td width="50%" valign="top">
 
-[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/triplanka) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://triplanka.vercel.app/)
+### 🧠 QuizMaster
+**Angular · TypeScript**
 
-### 🧠 QuizMaster — Interactive Quiz Platform
+A playful quiz app with categories, difficulty levels, countdowns, scoring, leaderboards and interactive feedback.
 
-**Angular · TypeScript · HTML · CSS**
+[🌐 Live demo](https://quiz-master-nu-gules.vercel.app/) · [💻 Source code](https://github.com/sevi2001/quiz-master)
 
-An interactive quiz application with multiple categories, difficulty settings, countdown timers, instant feedback, scoring, a leaderboard, player profiles, and theme support.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/quiz-master) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://quiz-master-nu-gules.vercel.app/)
+### ☁️ WeatherNow
+**Angular · SCSS · Weather API**
 
-### 🌦️ WeatherNow — Weather Forecast Dashboard
+A weather dashboard with city search, forecasts, saved locations and temperature conversions.
 
-**Angular · TypeScript · SCSS · Weather API**
+[🌐 Live demo](https://weather-now-nine-azure.vercel.app/) · [💻 Source code](https://github.com/sevi2001/weather-now)
 
-A responsive weather dashboard with city search, current conditions, hourly and five-day forecasts, temperature conversion, and saved locations.
+</td>
+<td width="50%" valign="top">
 
-[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/weather-now) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://weather-now-nine-azure.vercel.app/)
+### 🌸 FocusFlow
+**React · TypeScript**
 
-### 🤖 IntelliChat — AI Chat Assistant
+A cozy virtual study space with a Pomodoro timer, task planning, ambient sounds, a study companion and a private postcard vault.
 
-**Next.js · TypeScript · Tailwind CSS · AI API Integration**
+[🌐 Live demo](https://focusflow-delta-liard.vercel.app/)
 
-A modern conversational assistant with a responsive chat interface, conversation history, and AI-powered responses.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ☕ FocusFlow — Virtual Study Space
+### 🏛️ Smart Museum Guide
+**Flutter · FastAPI · Research**
 
-**React · TypeScript · CSS · Local Storage**
+My final-year group research project: QR-based personalized artifact guides, multilingual information and visitor interaction tracking.
 
-A cozy, animated productivity app featuring a Pomodoro timer, task planner, ambient sounds, study dashboard, and interactive companion.
+</td>
+<td width="50%" valign="top">
 
-[![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://focusflow-delta-liard.vercel.app/)
+### 🤖 IntelliChat
+**Next.js · TypeScript · AI APIs**
 
-### 🏛️ Smart Museum Guide — Final-Year Research
+A conversational AI web application with chat history, a responsive interface and API integration.
 
-**Flutter · FastAPI · Python · QR-Based Experiences**
+</td>
+</tr>
+</table>
 
-A team research project that helps museum visitors explore artifacts through QR-linked information, multilingual content, personalized guidance, and intelligent recommendations.
+<details>
+<summary><b>🔮 More projects in my universe — click to explore</b></summary>
+<br/>
 
-**My contribution:** QR-based personalized guide, artifact content delivery, personalized recommendations, and interaction logging.
+- **Retail Mini-POS** — Next.js, Firebase Authentication, Firestore, inventory and checkout workflows.
+- **DearMe** — A personal diary application with a soft pink aesthetic and privacy-focused features.
+- **JobTrack Pro** — React job application tracker with analytics and interview management.
+- **Personal Portfolio** — React developer portfolio featuring my projects and SeviBot.
+- **RouteSphere (concept / planned)** — Logistics and fleet management platform.
 
-### 💼 More Projects
+</details>
 
-| Project | Highlights |
-| --- | --- |
-| **Retail Mini-POS** | Product and stock management, cashier checkout, sales history, Firebase authentication |
-| **DearMe** | Private digital diary, scrapbook experiences, Supabase integration |
-| **JobTrack Pro** | Job application tracking, interview stages, reminders, analytics |
-| **Developer Portfolio** | Responsive portfolio, animations, projects, and SeviBot assistant |
-| **RouteSphere — Planned** | Fleet, logistics, route and shipment management platform |
+## 🌱 Chapter 04 · My journey so far
 
----
+```text
+2024 ── 🌱 Started professional trainee development at Hayleys Fentons
+        │  Built web interfaces and internal management tools
+        │
+2025 ── 🛠️ Continued learning through software projects
+        │
+2026 ── 🎓 Graduated from SLIIT
+        ├─ 🚕 Built TripLanka with Flutter
+        ├─ 🧠 Explored Angular through QuizMaster & WeatherNow
+        ├─ 🌸 Created FocusFlow with React
+        └─ 🚀 Exploring new software engineering opportunities
+```
 
-## 💼 Professional Experience
-
-**Trainee Software Engineer — Hayleys Fentons**  
-*January 2024 – January 2025*
-
-- Built responsive web pages using HTML, CSS, JavaScript, and Bootstrap.
-- Contributed to internal management systems and business websites.
-- Worked on reservation, order-tracking, quotation, and document-management features.
-- Collaborated with developers and designers across development, testing, and debugging.
-
----
-
-## ☁️ Exploring Cloud & AI
+## 📡 Chapter 05 · Signals from GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Learning-87CEEB?style=flat-square&logo=microsoftazure&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-F6C177?style=flat-square&logo=amazonaws&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-C4A7FF?style=flat-square" />
+<img src="https://github-readme-stats.vercel.app/api?username=sevi2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10132e&title_color=e9a8e8&text_color=dce8ff&icon_color=80d6ff" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=10132e&title_color=e9a8e8&text_color=dce8ff" height="170" alt="Most used GitHub languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sevi2001&bg_color=10132e&color=e9a8e8&line=80d6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+
+<sub>Statistics are generated by third-party services and may occasionally be unavailable.</sub>
 
 </div>
 
-I enjoy learning about cloud infrastructure, storage, networking, APIs, and practical AI-powered features. My learning interests include **Azure, AWS, machine learning, and intelligent applications**.
-
----
-
-## 📊 GitHub in Numbers
+## 🧸 Chapter 06 · Meet SeviBot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevi2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi2001&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used GitHub languages" />
+<img src="./assets/DgfrJNR8oUyv.gif" width="145" alt="SeviBot animated portfolio assistant" />
 
-<img src="https://streak-stats.demolab.com?user=sevi2001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+**A tiny assistant with a big job.** 💌
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sevi2001&theme=tokyo-night&hide_border=true" alt="Contribution activity" />
+SeviBot lives inside my portfolio and helps visitors discover my projects, skills, experience, certifications and contact details.
+
+[✨ Say hello to SeviBot](https://sevindi-portfolio.vercel.app/)
 
 </div>
 
----
-
-## 🌸 Meet SeviBot
+## 💌 Chapter 07 · Leave a little hello
 
 <div align="center">
 
-<img src="./assets/DgfrJNR8oUyv.gif" width="145" alt="SeviBot portfolio assistant" />
+I'm open to **Software Engineer / Associate Software Engineer opportunities**, collaborations and conversations about creative software.
 
-**A little helper in my portfolio!** 🤖💜
+[🌷 Explore my portfolio](https://sevindi-portfolio.vercel.app/) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/) · [✉️ Send an email](mailto:sevindijayathilake2001@gmail.com)
 
-SeviBot helps visitors explore my projects, experience, skills, certifications, CV, and contact information.
+<img src="https://komarev.com/ghpvc/?username=sevi2001&label=Visitors%20to%20my%20universe&color=bb8fe8&style=flat-square" alt="Profile visitors" />
 
-[![Meet SeviBot](https://img.shields.io/badge/Meet%20SeviBot-Open%20My%20Portfolio-F6B7D2?style=for-the-badge&logo=vercel&logoColor=161329)](https://sevindi-portfolio.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10132e,50:543b89,100:ffb6d9" width="100%" alt="Pastel wave footer" />
 
-</div>
-
----
-
-<div align="center">
-
-### 💌 Let's Connect & Create Something Amazing
-
-I'm always happy to connect with developers, collaborate on interesting ideas, and explore software engineering opportunities.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://sevindi-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=161329)](https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/)
-[![Email](https://img.shields.io/badge/Email-F6B7D2?style=for-the-badge&logo=gmail&logoColor=161329)](mailto:sevindijayathilake2001@gmail.com)
-
-*Learning • Building • Growing — one project at a time.* 🌷
-
-**Thanks for stopping by!** ✨
+<sub>Made with curiosity, coffee, and a little bit of magic ✨</sub>
 
 </div>
