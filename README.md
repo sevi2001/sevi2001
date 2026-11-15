@@ -149,34 +149,100 @@ A conversational AI web application with chat history, a responsive interface an
         └─ 🚀 Exploring new software engineering opportunities
 ```
 
-
-## 📡 Chapter 05 · Signals from GitHub
+## 🌸 Chapter 05 · My Developer Dreamscape
 
 <div align="center">
 
-### ✨ My GitHub Universe
+### ✨ A little universe built with curiosity
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sevi2001&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Statistics"
-/>
+*From my first lines of code to full-stack experiences — every project is a new constellation.*
 
-<br/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi2001&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most Used Languages"
-/>
+### 🌷 Frontend Magic
+**React · Angular · Next.js**
 
-<br/>
+Responsive interfaces, animations, and interactive web experiences.
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sevi2001&theme=tokyo-night&hide_border=true"
-  alt="GitHub Contribution Graph"
-/>
+</td>
+<td align="center" width="33%">
+
+### 🦋 Mobile Adventures
+**Flutter · Dart · Kotlin**
+
+Thoughtful mobile experiences, from travel planning to learning apps.
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Behind the Scenes
+**FastAPI · Firebase · Supabase**
+
+APIs, authentication, and data-powered application features.
+
+</td>
+</tr>
+</table>
+
+### 🎨 My coding palette
+
+| 💗 Create | 💜 Explore | 🩵 Connect | 🌿 Grow |
+|:---:|:---:|:---:|:---:|
+| **UI & UX** | **New frameworks** | **APIs & data** | **Build & deploy** |
+| React · CSS | Angular · Next.js | REST · Firestore | Git · Vercel |
+
+### 🪄 Little worlds I've brought to life
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🚕 TripLanka
+*Flutter · Travel & maps*
+
+[Explore project](https://github.com/sevi2001/triplanka) · [Live demo](https://triplanka.vercel.app/)
+
+</td>
+<td align="center" width="50%">
+
+#### 🧠 QuizMaster
+*Angular · Interactive learning*
+
+[Explore project](https://github.com/sevi2001/quiz-master) · [Live demo](https://quiz-master-nu-gules.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+#### 🌦️ WeatherNow
+*Angular · Weather forecasts*
+
+[Explore project](https://github.com/sevi2001/weather-now) · [Live demo](https://weather-now-nine-azure.vercel.app/)
+
+</td>
+<td align="center">
+
+#### 🧸 FocusFlow
+*React · Cozy productivity*
+
+[Live demo](https://focusflow-delta-liard.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+### 🌙 Currently in my orbit
+
+**💻 Building** creative applications · **📚 Learning** through hands-on projects · **🚀 Seeking** Software Engineer / Associate Software Engineer opportunities
+
+*“Every little project is a step toward something extraordinary.”* ✨
 
 </div>
 
+---
 
 ## 🧸 Chapter 06 · Meet SeviBot
 
