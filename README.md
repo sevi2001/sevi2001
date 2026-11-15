@@ -41,23 +41,78 @@ I'm **Sevindi Maleesha Jayathilake**, a **2026 SLIIT Information Technology grad
 
 </div>
 
-## 🌌 Portals to my projects
+## 🪄 Magical Project Portals
 
-<div align="center"><img src="./assets/project-constellation.svg" width="100%" alt="Animated project constellation" /></div>
+<div align="center">
 
-| ✨ Project | 🌷 What I built | 🔗 Explore |
-|:--|:--|:--|
-| **TripLanka** | Flutter travel booking and route planning | [GitHub](https://github.com/sevi2001/triplanka) · [Live](https://triplanka.vercel.app/) |
-| **QuizMaster** | Angular quiz platform with timers and leaderboards | [GitHub](https://github.com/sevi2001/quiz-master) · [Live](https://quiz-master-nu-gules.vercel.app/) |
-| **WeatherNow** | Angular weather dashboard | [GitHub](https://github.com/sevi2001/weather-now) · [Live](https://weather-now-nine-azure.vercel.app/) |
-| **FocusFlow** | Cozy React study space | [Live](https://focusflow-delta-liard.vercel.app/) |
-| **IntelliChat** | Next.js conversational assistant | [Portfolio](https://sevindi-portfolio.vercel.app/) |
-| **Retail Mini-POS** | Firebase-powered retail management | [Portfolio](https://sevindi-portfolio.vercel.app/) |
+*Six little worlds. One developer journey. Choose a portal to explore.*
+
+✨ The stars twinkle, the portal rings rotate, and each world glows. ✨
+
+</div>
+
+### 01 · TripLanka
+
+<div align="center">
+
+<img src="./assets/portal-1.svg" width="88%" alt="Animated TripLanka project portal" />
+
+[📂 Source code](https://github.com/sevi2001/triplanka) &nbsp; · &nbsp; [🌷 Live demo](https://triplanka.vercel.app/)
+
+</div>
+
+### 02 · QuizMaster
+
+<div align="center">
+
+<img src="./assets/portal-2.svg" width="88%" alt="Animated QuizMaster project portal" />
+
+[📂 Source code](https://github.com/sevi2001/quiz-master) &nbsp; · &nbsp; [🌷 Live demo](https://quiz-master-nu-gules.vercel.app/)
+
+</div>
+
+### 03 · WeatherNow
+
+<div align="center">
+
+<img src="./assets/portal-3.svg" width="88%" alt="Animated WeatherNow project portal" />
+
+[📂 Source code](https://github.com/sevi2001/weather-now) &nbsp; · &nbsp; [🌷 Live demo](https://weather-now-nine-azure.vercel.app/)
+
+</div>
+
+### 04 · FocusFlow
+
+<div align="center">
+
+<img src="./assets/portal-4.svg" width="88%" alt="Animated FocusFlow project portal" />
+
+[🌷 Live demo](https://focusflow-delta-liard.vercel.app/)
+
+</div>
+
+### 05 · IntelliChat
+
+<div align="center">
+
+<img src="./assets/portal-5.svg" width="88%" alt="Animated IntelliChat project portal" />
+
+[🌷 Explore portfolio](https://sevindi-portfolio.vercel.app/)
+
+</div>
+
+### 06 · Retail Mini-POS
+
+<div align="center">
+
+<img src="./assets/portal-6.svg" width="88%" alt="Animated Retail Mini-POS project portal" />
+
+[🌷 Explore portfolio](https://sevindi-portfolio.vercel.app/)
+
+</div>
 
 <details>
-<summary><b>🌼 Open my university research garden</b></summary>
-
-### Smart Museum Guide — SLIIT Research Project
+<summary><b>🏛️ Secret portal · Smart Museum Guide (SLIIT research)</b></summary>
 
 A Flutter and FastAPI museum guide with QR-linked artifact information, multilingual content, personalized recommendations, and visitor interaction tracking. My contribution focused on the QR-based personalized guide.
 
@@ -72,31 +127,19 @@ A Flutter and FastAPI museum guide with QR-linked artifact information, multilin
      └─ ✨ Continued creating Flutter, Angular, React & Next.js projects
 ```
 
-
-## 🤖🌸 Meet SeviBot — My Little Coding Companion
+## 🤖 Meet SeviBot
 
 <div align="center">
 
-<img
-  src="./assets/DgfrJNR8oUyv.gif"
-  width="190"
-  alt="SeviBot Animated Assistant"
-/>
-
-### 💗 Hello, I'm SeviBot!
-
-Your little guide through Sevindi's coding universe!
-
-✨ Explore my projects  
-🌷 Discover my technical skills  
-💻 Learn about my development journey  
-💌 Find my portfolio and contact details  
-
-<a href="https://sevindi-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌸_Meet_SeviBot-Visit_My_Portfolio-FFB6D9?style=for-the-badge" />
-</a>
+<img src="./assets/DgfrJNR8oUyv.gif" width="180" alt="SeviBot animated assistant" />
 
 </div>
+
+A friendly little assistant on my portfolio that helps visitors discover my projects, skills, experience, and CV.
+
+<div align="center">
+
+[🌸 Visit SeviBot in my portfolio](https://sevindi-portfolio.vercel.app/)
 
 ### 💌 Let's create something wonderful
 
