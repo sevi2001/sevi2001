@@ -41,91 +41,113 @@ I'm **Sevindi Maleesha Jayathilake**, a **2026 SLIIT Information Technology grad
 
 </div>
 
-## 🪄 Magical Project Portals
+## 🎮 Project Arcade · Sevi’s Pixel Quest
 
 <div align="center">
 
-*Six little worlds. One developer journey. Choose a portal to explore.*
+**Welcome, player!** 🌸 Choose a level and explore what I’ve built.
 
-✨ The stars twinkle, the portal rings rotate, and each world glows. ✨
+*Animated pixel worlds · jumping character · floating coins · moving clouds · twinkling stars*
 
 </div>
 
-### 01 · TripLanka
+### 🕹️ LEVEL 01 — TripLanka
 
 <div align="center">
+<img src="./assets/level-1.svg" alt="Animated pixel world for TripLanka" width="800" />
 
-<img src="./assets/portal-1.svg" width="88%" alt="Animated TripLanka project portal" />
+**TRAVEL QUEST** · `Flutter + Dart`
 
-[📂 Source code](https://github.com/sevi2001/triplanka) &nbsp; · &nbsp; [🌷 Live demo](https://triplanka.vercel.app/)
+Explore routes, rides and trip planning.
+
+[💻 Source Code](https://github.com/sevi2001/triplanka) &nbsp; • &nbsp; [✨ Play / Live Demo](https://triplanka.vercel.app/)
 
 </div>
 
-### 02 · QuizMaster
+---
+
+### 🕹️ LEVEL 02 — QuizMaster
 
 <div align="center">
+<img src="./assets/level-2.svg" alt="Animated pixel world for QuizMaster" width="800" />
 
-<img src="./assets/portal-2.svg" width="88%" alt="Animated QuizMaster project portal" />
+**QUIZ CASTLE** · `Angular + TypeScript`
 
-[📂 Source code](https://github.com/sevi2001/quiz-master) &nbsp; · &nbsp; [🌷 Live demo](https://quiz-master-nu-gules.vercel.app/)
+Beat the clock and climb the leaderboard.
+
+[💻 Source Code](https://github.com/sevi2001/quiz-master) &nbsp; • &nbsp; [✨ Play / Live Demo](https://quiz-master-nu-gules.vercel.app/)
 
 </div>
 
-### 03 · WeatherNow
+---
+
+### 🕹️ LEVEL 03 — WeatherNow
 
 <div align="center">
+<img src="./assets/level-3.svg" alt="Animated pixel world for WeatherNow" width="800" />
 
-<img src="./assets/portal-3.svg" width="88%" alt="Animated WeatherNow project portal" />
+**SKY KINGDOM** · `Angular + SCSS`
 
-[📂 Source code](https://github.com/sevi2001/weather-now) &nbsp; · &nbsp; [🌷 Live demo](https://weather-now-nine-azure.vercel.app/)
+Forecasts, favorites and weather search.
+
+[💻 Source Code](https://github.com/sevi2001/weather-now) &nbsp; • &nbsp; [✨ Play / Live Demo](https://weather-now-nine-azure.vercel.app/)
 
 </div>
 
-### 04 · FocusFlow
+---
+
+### 🕹️ LEVEL 04 — FocusFlow
 
 <div align="center">
+<img src="./assets/level-4.svg" alt="Animated pixel world for FocusFlow" width="800" />
 
-<img src="./assets/portal-4.svg" width="88%" alt="Animated FocusFlow project portal" />
+**COZY FOREST** · `React + TypeScript`
 
-[🌷 Live demo](https://focusflow-delta-liard.vercel.app/)
+Focus timers, tasks and a cozy study world.
+
+[✨ Play / Live Demo](https://focusflow-delta-liard.vercel.app/)
 
 </div>
 
-### 05 · IntelliChat
+---
+
+### 🕹️ LEVEL 05 — IntelliChat
 
 <div align="center">
+<img src="./assets/level-5.svg" alt="Animated pixel world for IntelliChat" width="800" />
 
-<img src="./assets/portal-5.svg" width="88%" alt="Animated IntelliChat project portal" />
+**AI STARSHIP** · `Next.js + TypeScript`
 
-[🌷 Explore portfolio](https://sevindi-portfolio.vercel.app/)
+Chat assistant with conversation history.
+
+[🌸 Explore my portfolio](https://sevindi-portfolio.vercel.app/)
 
 </div>
 
-### 06 · Retail Mini-POS
+---
+
+### 🕹️ LEVEL 06 — Retail Mini-POS
 
 <div align="center">
+<img src="./assets/level-6.svg" alt="Animated pixel world for Retail Mini-POS" width="800" />
 
-<img src="./assets/portal-6.svg" width="88%" alt="Animated Retail Mini-POS project portal" />
+**MARKET TOWN** · `Next.js + Firebase`
 
-[🌷 Explore portfolio](https://sevindi-portfolio.vercel.app/)
+Inventory, checkout and sales management.
+
+[🌸 Explore my portfolio](https://sevindi-portfolio.vercel.app/)
 
 </div>
+
+---
 
 <details>
-<summary><b>🏛️ Secret portal · Smart Museum Guide (SLIIT research)</b></summary>
+<summary><b>🔓 BONUS LEVEL — Smart Museum Guide (SLIIT Research)</b></summary>
 
-A Flutter and FastAPI museum guide with QR-linked artifact information, multilingual content, personalized recommendations, and visitor interaction tracking. My contribution focused on the QR-based personalized guide.
+**Flutter · FastAPI** — AI-assisted museum guide with QR-linked artifact information, multilingual content, personalized recommendations and visitor-interaction tracking. My contribution focused on the QR-based personalized guide.
 
 </details>
 
-## 🌱 My developer journey
-
-```text
-2024 ── 🌱 Started developing professional software at Hayleys Fentons
-2025 ── 🌷 Built and refined university and internship projects
-2026 ── 🎓 Graduated from SLIIT
-     └─ ✨ Continued creating Flutter, Angular, React & Next.js projects
-```
 
 ## 🤖 Meet SeviBot
 
