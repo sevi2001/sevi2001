@@ -72,13 +72,31 @@ A Flutter and FastAPI museum guide with QR-linked artifact information, multilin
      └─ ✨ Continued creating Flutter, Angular, React & Next.js projects
 ```
 
-## 🤖 Meet SeviBot
 
-A friendly little assistant on my portfolio that helps visitors discover my projects, skills, experience, and CV.
+## 🤖🌸 Meet SeviBot — My Little Coding Companion
 
 <div align="center">
 
-[🌸 Visit SeviBot in my portfolio](https://sevindi-portfolio.vercel.app/)
+<img
+  src="./assets/DgfrJNR8oUyv.gif"
+  width="190"
+  alt="SeviBot Animated Assistant"
+/>
+
+### 💗 Hello, I'm SeviBot!
+
+Your little guide through Sevindi's coding universe!
+
+✨ Explore my projects  
+🌷 Discover my technical skills  
+💻 Learn about my development journey  
+💌 Find my portfolio and contact details  
+
+<a href="https://sevindi-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌸_Meet_SeviBot-Visit_My_Portfolio-FFB6D9?style=for-the-badge" />
+</a>
+
+</div>
 
 ### 💌 Let's create something wonderful
 
