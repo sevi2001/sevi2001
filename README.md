@@ -1,100 +1,89 @@
 <div align="center">
 
-<img src="./assets/galaxy-header.svg" width="100%" alt="Sevindi's animated coding galaxy" />
+<img src="./assets/garden-banner.svg" width="100%" alt="Sevindi's animated code garden" />
 
-<br/>
+<a href="https://sevindi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/✿_Portfolio-Visit_My_World-DBA6E8?style=for-the-badge" /></a>
+<a href="https://github.com/sevi2001"><img src="https://img.shields.io/badge/✦_GitHub-Explore_Projects-9ADFD8?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/"><img src="https://img.shields.io/badge/♡_LinkedIn-Let's_Connect-B5C8FA?style=for-the-badge" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=D6B8FF&center=true&vCenter=true&width=760&lines=Turning+little+ideas+into+real+applications+%E2%9C%A8;Flutter+%E2%80%A2+Angular+%E2%80%A2+React+%E2%80%A2+Next.js;Learning+something+new+with+every+project+%F0%9F%8C%B8" alt="Animated developer introduction" />
+### 🌸 Welcome to my enchanted code garden
 
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FFC6E6?style=for-the-badge&logo=vercel&logoColor=29234c)](https://sevindi-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-CDBBFF?style=for-the-badge&logo=linkedin&logoColor=29234c)](https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/)
-[![Email](https://img.shields.io/badge/Say_Hello-AEF2E8?style=for-the-badge&logo=gmail&logoColor=29234c)](mailto:sevindijayathilake2001@gmail.com)
+*Where imagination meets engineering, and every project is a new little adventure.*
+
+<img src="./assets/terminal.svg" width="94%" alt="Animated developer terminal" />
 
 </div>
 
----
+## 🦋 A little about me
 
-### 🌷 `01 / hello_world` — A little about me
+I'm **Sevindi Maleesha Jayathilake**, a **2026 SLIIT Information Technology graduate** and former **Trainee Software Engineer at Hayleys Fentons**. I enjoy building expressive, useful web and mobile applications, experimenting with new frameworks, and continuously learning.
 
-```typescript
-const sevindi = {
-  education: "BSc (Hons) in Information Technology — SLIIT, 2026",
-  experience: "Trainee Software Engineer — Hayleys Fentons (2024–2025)",
-  interests: ["Full-stack web", "Mobile apps", "Creative UI", "AI"],
-  currently: "Building projects and exploring software engineering opportunities",
-  motto: "Keep learning. Keep creating. ✨"
-};
-```
+- 🌷 **Currently exploring:** Angular, Next.js, React, and Flutter
+- 🧩 **I enjoy:** thoughtful interfaces, animation, and problem solving
+- 💼 **Career interests:** Software Engineer / Associate Software Engineer
+- ✨ **My approach:** Learn → Build → Improve → Share
 
-I love turning ideas into useful, polished digital experiences. My work spans responsive websites, mobile apps, management systems, and playful interactive interfaces.
-
-### 🪐 `02 / tech_universe` — My technology orbit
+## 💫 My technology garden
 
 <div align="center">
-<img src="./assets/orbit.svg" width="100%" alt="Animated orbit of my development technologies" />
 
-**Languages** · JavaScript · TypeScript · Java · Python · Kotlin · Dart · SQL  
-**Frontend** · React · Angular · Next.js · HTML · CSS · Tailwind · Bootstrap  
-**Backend & Data** · FastAPI · Node.js · Firebase · Supabase · MongoDB · MySQL  
-**Mobile & Tools** · Flutter · Android Studio · Git · GitHub · Postman · Vercel
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,kotlin,dart,php" alt="Programming languages" />
+
+**Frontend & mobile**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,flutter" alt="Frontend and mobile technologies" />
+
+**Backend, data & tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase,supabase,git,github,vercel,vscode" alt="Backend databases and tools" />
+
 </div>
 
-### 🧩 `03 / project_portals` — Choose a world to explore
+## 🌌 Portals to my projects
 
-| 🌸 Project | ✨ What I built | 🔗 Explore |
+<div align="center"><img src="./assets/project-constellation.svg" width="100%" alt="Animated project constellation" /></div>
+
+| ✨ Project | 🌷 What I built | 🔗 Explore |
 |:--|:--|:--|
-| **TripLanka** · Flutter | Travel booking, planned trips, routes, driver tools and cost splitting | [Code](https://github.com/sevi2001/triplanka) · [Live](https://triplanka.vercel.app/) |
-| **QuizMaster** · Angular | Animated quizzes, countdown timers, difficulty levels and leaderboard | [Code](https://github.com/sevi2001/quiz-master) · [Live](https://quiz-master-nu-gules.vercel.app/) |
-| **WeatherNow** · Angular | Weather forecasts, favorites and temperature conversion | [Code](https://github.com/sevi2001/weather-now) · [Live](https://weather-now-nine-azure.vercel.app/) |
-| **FocusFlow** · React | Cozy virtual study room, Pomodoro, planner and ambient sounds | [Live](https://focusflow-delta-liard.vercel.app/) |
-| **Smart Museum Guide** · Flutter + FastAPI | QR-based personalized artifact guide and multilingual information | Research project |
-| **IntelliChat** · Next.js | Conversational AI assistant with saved conversations | Personal project |
+| **TripLanka** | Flutter travel booking and route planning | [GitHub](https://github.com/sevi2001/triplanka) · [Live](https://triplanka.vercel.app/) |
+| **QuizMaster** | Angular quiz platform with timers and leaderboards | [GitHub](https://github.com/sevi2001/quiz-master) · [Live](https://quiz-master-nu-gules.vercel.app/) |
+| **WeatherNow** | Angular weather dashboard | [GitHub](https://github.com/sevi2001/weather-now) · [Live](https://weather-now-nine-azure.vercel.app/) |
+| **FocusFlow** | Cozy React study space | [Live](https://focusflow-delta-liard.vercel.app/) |
+| **IntelliChat** | Next.js conversational assistant | [Portfolio](https://sevindi-portfolio.vercel.app/) |
+| **Retail Mini-POS** | Firebase-powered retail management | [Portfolio](https://sevindi-portfolio.vercel.app/) |
 
 <details>
-<summary><b>💌 Open my little project diary</b></summary>
-<br/>
+<summary><b>🌼 Open my university research garden</b></summary>
 
-- 🧳 **TripLanka:** Practised building a travel-focused mobile interface and map-based workflows.
-- 🧠 **QuizMaster:** Learned Angular by building a complete interactive quiz experience.
-- ☁️ **WeatherNow:** Explored external API integration and responsive dashboards.
-- 🕯️ **FocusFlow:** Combined productivity features with cozy, animated design.
+### Smart Museum Guide — SLIIT Research Project
+
+A Flutter and FastAPI museum guide with QR-linked artifact information, multilingual content, personalized recommendations, and visitor interaction tracking. My contribution focused on the QR-based personalized guide.
 
 </details>
 
-### 🌠 `04 / my_journey` — A constellation of milestones
+## 🌱 My developer journey
 
 ```text
-2024  ✦  Trainee Software Engineer @ Hayleys Fentons
-  │
-2025  ✦  Building research and software projects
-  │
-2026  ✦  Graduated from SLIIT
-  │
-NOW   ✦  Exploring Flutter, Angular, React and Next.js
-  │
-NEXT  ✦  Contributing to an amazing engineering team 🚀
+2024 ── 🌱 Started developing professional software at Hayleys Fentons
+2025 ── 🌷 Built and refined university and internship projects
+2026 ── 🎓 Graduated from SLIIT
+     └─ ✨ Continued creating Flutter, Angular, React & Next.js projects
 ```
 
-### 🤖 `05 / sevibot_corner` — A friendly guide
+## 🤖 Meet SeviBot
+
+A friendly little assistant on my portfolio that helps visitors discover my projects, skills, experience, and CV.
 
 <div align="center">
 
-**Meet SeviBot — my little portfolio assistant!** 🌷
+[🌸 Visit SeviBot in my portfolio](https://sevindi-portfolio.vercel.app/)
 
-Explore my projects, background, and skills through my [interactive portfolio](https://sevindi-portfolio.vercel.app/).
-
-[![Visit SeviBot](https://img.shields.io/badge/CHAT_WITH_SEVIBOT-Visit_my_portfolio-E8C7FF?style=for-the-badge&logo=vercel&logoColor=29234c)](https://sevindi-portfolio.vercel.app/)
-
-</div>
-
-### 💌 `06 / send_a_signal` — Let's connect
-
-<div align="center">
-
-**Have a project idea, opportunity, or just want to say hello?**
+### 💌 Let's create something wonderful
 
 [Portfolio](https://sevindi-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/) · [Email](mailto:sevindijayathilake2001@gmail.com)
 
-*Made with curiosity, creativity and a little stardust.* ✨
+<img src="./assets/footer.svg" width="100%" alt="Animated thank you banner" />
 
 </div>
