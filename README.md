@@ -1,330 +1,195 @@
-<h1 align="center">Hi 👋, I'm Sevindi Maleesha Jayathilake</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Undergraduate | Full-Stack Developer | Cloud & AI Enthusiast
-</h3>
+# Hi, I'm Sevindi! 👋💜
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+MERN+%7C+Flutter;Exploring+Cloud+%26+AI+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
-    alt="Typing SVG"
-  />
-</p>
+### Software Engineering Graduate · Full-Stack & Mobile Developer
 
-<p align="center">
-  <a href="https://sevindi-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=C4A7FF&center=true&vCenter=true&width=760&lines=Turning+ideas+into+beautiful+digital+experiences+%E2%9C%A8;React+%E2%80%A2+Next.js+%E2%80%A2+Angular+%E2%80%A2+Flutter;Building%2C+learning%2C+and+growing+every+day+%F0%9F%8C%B7" alt="Animated introduction" />
 
-  <a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://sevindi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329" /></a>
+<a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=161329" /></a>
+<a href="mailto:sevindijayathilake2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-F6B7D2?style=for-the-badge&logo=gmail&logoColor=161329" /></a>
 
-  <a href="mailto:sevindijayathilake2001@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sevi2001&label=Profile%20Views&color=ba9af7&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 A Little About Me
 
-I am an Information Technology undergraduate at **SLIIT** with hands-on experience in software development and a strong interest in building modern, scalable, and user-focused applications.
+I'm **Sevindi Maleesha Jayathilake**, a **2026 BSc (Hons) Information Technology graduate from SLIIT**, passionate about creating thoughtful, responsive web and mobile experiences.
 
-My main areas of interest include **Full-Stack Development, Mobile Application Development, Cloud Computing, Artificial Intelligence, and Machine Learning**.
+I worked as a **Trainee Software Engineer at Hayleys Fentons (Jan 2024 – Jan 2025)**, contributing to websites and internal management systems. I continue to grow through hands-on projects, experimenting with new frameworks, APIs, animations, and deployment workflows.
 
-- 💻 Building modern full-stack web applications
-- ⚛️ Working with React, JavaScript, and MERN technologies
-- 📱 Developing mobile applications with Flutter and Kotlin
-- ⚙️ Building backend APIs with Node.js, Express, FastAPI, and Spring Boot
-- ☁️ Exploring AWS and Microsoft Azure
-- 🤖 Interested in AI/ML-powered software solutions
-- 🧠 Continuously improving software engineering and problem-solving skills
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,php" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>
-
-### Mobile Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
-</p>
-
-### Cloud & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vercel,vscode,postman,figma,linux" />
-</p>
+- 🎯 **Open to:** Software Engineer, Associate Software Engineer & Junior Developer opportunities
+- 💻 **Currently building with:** React, Next.js, Angular, TypeScript & Flutter
+- 📱 **I enjoy:** Mobile apps, interactive UIs, full-stack projects & creative design
+- 🌱 **Exploring:** Cloud platforms, AI integrations & software architecture
+- ✨ **My approach:** Learn by building, test ideas, and keep improving
+- 📍 **Based in:** Sri Lanka
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 My Tech Toolbox
 
-### 🏛️ Smart Museum Guide
+<div align="center">
 
-**Multilingual QR-Based Artifact Information & Recommendation System**
+**Languages**
 
-A smart museum application designed to enhance visitor experiences using personalized content, QR-based artifact access, multilingual support, and intelligent recommendations.
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,kotlin,dart,php&theme=dark" alt="Programming languages" />
 
-**Key Features**
-- QR-based artifact identification
-- Personalized role-based information
-- Multilingual artifact content
-- AI-powered artifact classification
-- Smart artifact recommendations
-- Mobile-first user experience
+**Frontend & UI**
 
-**Tech Stack**
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend technologies" />
 
-`Flutter` `FastAPI` `Python` `TensorFlow` `REST API` `Machine Learning`
+**Backend & APIs**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Backend technologies" />
 
-### 💼 JobTrack Pro
+**Databases & Services**
 
-**Job Application Tracking & Career Analytics Dashboard**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,sqlite&theme=dark" alt="Databases and services" />
 
-A modern React application for managing job applications, interview stages, reminders, companies, and career progress.
+**Mobile, Cloud & Developer Tools**
 
-**Key Features**
-- Application CRUD operations
-- Application status pipeline
-- Interview tracking
-- Reminder management
-- Search and filtering
-- Career analytics
-- LocalStorage persistence
-- Responsive dashboard UI
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,aws,azure,docker,git,github,vercel,vscode,postman,figma,linux&theme=dark" alt="Mobile, cloud, and developer tools" />
 
-**Tech Stack**
+</div>
 
-`React` `JavaScript` `Recharts` `Framer Motion` `LocalStorage`
+> 💡 These are technologies I've worked with or explored at different levels. I'm always learning and improving.
 
 ---
 
-### 🌐 Personal Developer Portfolio
+## ✨ Featured Projects
 
-A responsive React portfolio showcasing my projects, technical skills, education, professional experience, and certifications.
+### 🚕 TripLanka — Travel Booking Application
 
-**Key Features**
-- Responsive modern design
-- Smooth Framer Motion animations
-- Project showcase
-- Certification gallery
-- Downloadable CV
-- Interactive portfolio assistant
-- GitHub and LinkedIn integration
-- Vercel deployment
+**Flutter · Dart · Firebase · Maps & Routing**
 
-**Tech Stack**
+A travel booking experience with instant ride requests, scheduled trips, multiple stops, airport transfers, full-day bookings, route previews, driver workflows, ratings, and a cost-splitting calculator.
 
-`React` `Vite` `JavaScript` `Framer Motion` `CSS`
+[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/triplanka) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://triplanka.vercel.app/)
 
----
+### 🧠 QuizMaster — Interactive Quiz Platform
 
-### 🚚 RouteSphere
+**Angular · TypeScript · HTML · CSS**
 
-**Logistics & Fleet Management Platform**
+An interactive quiz application with multiple categories, difficulty settings, countdown timers, instant feedback, scoring, a leaderboard, player profiles, and theme support.
 
-A full-stack fleet and logistics management platform for managing vehicles, drivers, shipments, routes, maintenance, fuel usage, and operational analytics.
+[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/quiz-master) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://quiz-master-nu-gules.vercel.app/)
 
-**Planned Features**
-- Fleet dashboard
-- Vehicle and driver management
-- Shipment tracking
-- Route visualization
-- Maintenance tracking
-- Fuel management
-- Analytics and reports
+### 🌦️ WeatherNow — Weather Forecast Dashboard
 
-**Tech Stack**
+**Angular · TypeScript · SCSS · Weather API**
 
-`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Leaflet`
+A responsive weather dashboard with city search, current conditions, hourly and five-day forecasts, temperature conversion, and saved locations.
 
----
+[![Code](https://img.shields.io/badge/Explore%20Code-181825?style=for-the-badge&logo=github)](https://github.com/sevi2001/weather-now) [![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://weather-now-nine-azure.vercel.app/)
 
-## ☁️ Cloud & Professional Learning
+### 🤖 IntelliChat — AI Chat Assistant
 
-### Microsoft Azure
+**Next.js · TypeScript · Tailwind CSS · AI API Integration**
 
-- Azure Virtual Machines
-- Azure Virtual Networks
-- Azure Blob Storage
-- Azure Load Balancer
-- Azure Identity, Access & Security
-- Azure Relational Database Services
-- Microsoft Power Apps
+A modern conversational assistant with a responsive chat interface, conversation history, and AI-powered responses.
 
-### AWS
+### ☕ FocusFlow — Virtual Study Space
 
-- Amazon S3
-- Networking Concepts
-- VPC Connectivity
-- Cloud File Systems
-- Computing Solutions
-- Databases in Practice
-- Cloud Web Application Development
+**React · TypeScript · CSS · Local Storage**
 
-### Software Development
+A cozy, animated productivity app featuring a Pomodoro timer, task planner, ambient sounds, study dashboard, and interactive companion.
 
-- MERN Stack Fundamentals
-- Java Programming
-- Python Fundamentals
-- Front-End Development with CSS
+[![Live](https://img.shields.io/badge/Live%20Demo-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://focusflow-delta-liard.vercel.app/)
+
+### 🏛️ Smart Museum Guide — Final-Year Research
+
+**Flutter · FastAPI · Python · QR-Based Experiences**
+
+A team research project that helps museum visitors explore artifacts through QR-linked information, multilingual content, personalized guidance, and intelligent recommendations.
+
+**My contribution:** QR-based personalized guide, artifact content delivery, personalized recommendations, and interaction logging.
+
+### 💼 More Projects
+
+| Project | Highlights |
+| --- | --- |
+| **Retail Mini-POS** | Product and stock management, cashier checkout, sales history, Firebase authentication |
+| **DearMe** | Private digital diary, scrapbook experiences, Supabase integration |
+| **JobTrack Pro** | Job application tracking, interview stages, reminders, analytics |
+| **Developer Portfolio** | Responsive portfolio, animations, projects, and SeviBot assistant |
+| **RouteSphere — Planned** | Fleet, logistics, route and shipment management platform |
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Professional Experience
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=sevi2001&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+**Trainee Software Engineer — Hayleys Fentons**  
+*January 2024 – January 2025*
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi2001&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sevi2001&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+- Built responsive web pages using HTML, CSS, JavaScript, and Bootstrap.
+- Contributed to internal management systems and business websites.
+- Worked on reservation, order-tracking, quotation, and document-management features.
+- Collaborated with developers and designers across development, testing, and debugging.
 
 ---
 
-## 📈 Contribution Activity
+## ☁️ Exploring Cloud & AI
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sevi2001&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Learning-87CEEB?style=flat-square&logo=microsoftazure&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-F6C177?style=flat-square&logo=amazonaws&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-C4A7FF?style=flat-square" />
 
-## 🏆 GitHub Achievements
+</div>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sevi2001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
+I enjoy learning about cloud infrastructure, storage, networking, APIs, and practical AI-powered features. My learning interests include **Azure, AWS, machine learning, and intelligent applications**.
 
 ---
 
-## 🤖 Portfolio Assistant
+## 📊 GitHub in Numbers
 
-<p align="center">
-  <img
-    src="./assets/DgfrJNR8oUyv.gif"
-    width="150"
-    alt="Portfolio Assistant"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Meet SeviBot</b>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevi2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevi2001&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used GitHub languages" />
 
-<p align="center">
-  A small interactive assistant integrated into my portfolio to help visitors quickly explore my projects, skills, certifications, experience, CV, and contact information.
-</p>
+<img src="https://streak-stats.demolab.com?user=sevi2001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<p align="center">
-  <a href="https://sevindi-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Try%20SeviBot-Open%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Open Portfolio"
-    />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sevi2001&theme=tokyo-night&hide_border=true" alt="Contribution activity" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌸 Meet SeviBot
 
-<p align="center">
+<div align="center">
 
-  <a href="https://sevindi-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
+<img src="./assets/DgfrJNR8oUyv.gif" width="145" alt="SeviBot portfolio assistant" />
 
-  <a href="https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sevindi%20Jayathilake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+**A little helper in my portfolio!** 🤖💜
 
-  <a href="mailto:sevindijayathilake2001@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+SeviBot helps visitors explore my projects, experience, skills, certifications, CV, and contact information.
 
-</p>
+[![Meet SeviBot](https://img.shields.io/badge/Meet%20SeviBot-Open%20My%20Portfolio-F6B7D2?style=for-the-badge&logo=vercel&logoColor=161329)](https://sevindi-portfolio.vercel.app/)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>
-    "Code is like humor. When you have to explain it, it's bad."
-  </i>
-  <br/>
-  — Cory House
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sevi2001&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+### 💌 Let's Connect & Create Something Amazing
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile 👋</b>
-</p>
+I'm always happy to connect with developers, collaborate on interesting ideas, and explore software engineering opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-C4A7FF?style=for-the-badge&logo=vercel&logoColor=161329)](https://sevindi-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=161329)](https://www.linkedin.com/in/sevindi-jayathilake-b840132a3/)
+[![Email](https://img.shields.io/badge/Email-F6B7D2?style=for-the-badge&logo=gmail&logoColor=161329)](mailto:sevindijayathilake2001@gmail.com)
+
+*Learning • Building • Growing — one project at a time.* 🌷
+
+**Thanks for stopping by!** ✨
+
+</div>
